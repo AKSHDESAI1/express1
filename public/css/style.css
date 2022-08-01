@@ -1,0 +1,26 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+html, body{
+    height: 100%;
+}
+
+.st-font {
+  font-family: "BhuTuka Expanded One", cursive;
+  font-family: "Satisfy", cursive;
+}
+
+.nav-link:hover{
+    background-color: lightgreen;
+}
+
+.nav-link.active {
+    background-color: orange;
+    color: white;
+}
+
+.container-fluid{
+    min-height: 100%;
+}
